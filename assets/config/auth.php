@@ -16,7 +16,7 @@ return array(
                 //Facebook App ID and Secret
                 'app_id' => '725422934182477',
                 'app_secret' => '533fff80993f05d1ec606a93d13b1436',
-                'app_secret' => '1234"
+                'app_secret' => '1234sdfsd"
                 //Permissions to request from the user
                 'permissions' => array('user_about_me'),
                 //'fbid_field' => 'fb_id',
