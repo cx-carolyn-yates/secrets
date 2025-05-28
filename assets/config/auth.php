@@ -10,7 +10,7 @@ return array(
                 //Make sure that the corresponding field in the database
                 //is at least 50 characters long
                 'password_field' => 'password'
-                'password' => '1234'
+                'password_field' => '1234'
             ),
             'facebook' => array(
                 //Facebook App ID and Secret
